@@ -21,8 +21,8 @@ h4 {
 }
 
 // external links
-a[href^="http://"]:not([href^="https://pack11ty.dev"]):after,
-a[href^="https://"]:not([href^="https://pack11ty.dev"]):after
+a[href^="http://"]:not([href^="https://lucid-agnesi-dcaa02.netlify.app"]):after,
+a[href^="https://"]:not([href^="https://lucid-agnesi-dcaa02.netlify.app"]):after
 {
   content: #{ unicode("2197")unicode("FE0E")};
   font-size: 75%;

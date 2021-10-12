@@ -1,12 +1,12 @@
 {
   "title": "Pack11ty",
   "description": "an heavily opinionated Eleventy template project",
-  "url": "https://pack11ty.dev/",
+  "url": "https://lucid-agnesi-dcaa02.netlify.app/",
   "author": {
     "name": "Nicolas Hoizey",
     "email": "nicolas@hoizey.com",
-    "url": "https://nicolas-hoizey.com/",
-    "twitter": "nhoizey",
-    "facebook": "nhoizey"
+    "url": "https://lucid-agnesi-dcaa02.netlify.app/",
+    "twitter": "papplegate",
+    "facebook": ""
   }
 }
